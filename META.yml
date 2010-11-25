@@ -1,17 +1,16 @@
 --- #YAML:1.0
 name:               Net-TFTP
-version:            0.18
+version:            0.19
 abstract:           ~
 author:  []
 license:            perl
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
-build_requires:
+requires:
     Test::MockModule:  0
     Test::More:        0.8701
     Test::Warn:        0
-requires:  {}
 resources:
     repository:  http://github.com/gbarr/perl-net-tftp
 no_index:

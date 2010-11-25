@@ -9,3 +9,4 @@ t/01-get.t
 t/02-new.t
 t/files/directory/empty
 t/files/source
+SIGNATURE                                Public-key signature (added by MakeMaker)
